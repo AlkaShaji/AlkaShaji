@@ -23,19 +23,22 @@ Aspiring Data Analyst and Data Scientist passionate about transforming raw data 
 ## 🚀 Projects
 
 ### 1. Glowify — AI-Driven Skincare Recommendation Engine  
-*Technologies:* Python, Flask, OpenCV, EfficientNet, ResNet, Pandas, Numpy, HTML/CSS  
+*Technologies:* Python, Flask, OpenCV, EfficientNet, ResNet, Pandas, Numpy, HTML & CSS  
 - Developed a web app that analyzes skin type and concerns using live webcam or uploaded images.  
 - Implemented computer vision models (EfficientNet & ResNet) for accurate skin analysis.  
 - Integrated a personalized skincare product recommendation system based on user’s skin condition.  
 - Designed intuitive UI with real-time camera feed and image upload support.  
 - Handled backend API development using Flask to process images and return results.
 
-### 2. Healus — [Brief project description placeholder]  
-*Technologies:* [Add main technologies used]  
-- Describe key features and your role in this project.  
-- Highlight any data science or analysis components involved.  
+### 2.Healus — Hospital Management & Personal Health Record System
+*Technologies: *Python, Android, MySQL, Dreamweaver, WampServer, Android Studio, HTML & CSS
 
-*(Note: Add specifics about Healus if you want me to draft this)*
+- Built an Android-based hospital management application to centralize patient records and hospital operations.
+- Implemented multi-role access (Admin, Hospital, Doctor, Nurse, Receptionist, Pharmacy, Patient) with secure authentication.
+- Developed modules for appointment booking, doctor scheduling, PHR storage, and prescription management.
+- Integrated multi-hospital support with reminders for patient appointments.
+- Designed MySQL database schema, ER diagrams, and DFDs for structured data storage and retrieval.
+- Conducted unit, integration, and user acceptance testing to ensure reliability and usability.
 
 ---
 
