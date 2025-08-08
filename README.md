@@ -31,7 +31,7 @@ Aspiring Data Analyst and Data Scientist passionate about transforming raw data 
 - Handled backend API development using Flask to process images and return results.
 
 ### 2.Healus — Hospital Management & Personal Health Record System
-*Technologies: *Python, Android, MySQL, Dreamweaver, WampServer, Android Studio, HTML & CSS
+Technologies: Python, Android, MySQL, Dreamweaver, WampServer, Android Studio, HTML & CSS
 
 - Built an Android-based hospital management application to centralize patient records and hospital operations.
 - Implemented multi-role access (Admin, Hospital, Doctor, Nurse, Receptionist, Pharmacy, Patient) with secure authentication.
