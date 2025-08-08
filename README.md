@@ -12,11 +12,11 @@ Aspiring Data Analyst and Data Scientist passionate about transforming raw data 
 ---
 
 ## 🔧 Technical Skills  
-- **Programming:** Python, SQL, R (basic)  
-- **Data Analysis & Visualization:** pandas, NumPy, Matplotlib, Seaborn, Power BI (basic)  
+- **Programming:** Python, SQL, HTML 
+- **Data Analysis & Visualization:** pandas, NumPy, Matplotlib, Seaborn, Power BI (basic)
 - **Machine Learning:** scikit-learn, TensorFlow, Keras  
 - **Web & API:** Flask, REST APIs  
-- **Tools:** Jupyter Notebook, Git, VS Code, Excel, Tableau (basic)  
+- **Tools:** Jupyter Notebook, Github, VS Code, Excel, Tableau (basic)  
 
 ---
 
