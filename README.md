@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 - **Master of Science (MSc) in Computer Science** — Specialization: Data Science (Recently Completed)  
-- **Bachelor of Computer Applications (BCA)**  
+- **Bachelor of Computer Applications (BCA)**     - 2020 - 2023
 
 ---
 
