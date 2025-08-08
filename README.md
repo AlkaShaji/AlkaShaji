@@ -32,13 +32,28 @@ Aspiring Data Analyst and Data Scientist passionate about transforming raw data 
 
 ### 2.Healus — Hospital Management & Personal Health Record System
 Technologies: Python, Android, MySQL, Dreamweaver, WampServer, Android Studio, HTML & CSS
-
 - Built an Android-based hospital management application to centralize patient records and hospital operations.
 - Implemented multi-role access (Admin, Hospital, Doctor, Nurse, Receptionist, Pharmacy, Patient) with secure authentication.
 - Developed modules for appointment booking, doctor scheduling, PHR storage, and prescription management.
 - Integrated multi-hospital support with reminders for patient appointments.
 - Designed MySQL database schema, ER diagrams, and DFDs for structured data storage and retrieval.
 - Conducted unit, integration, and user acceptance testing to ensure reliability and usability.
+
+---
+
+**🏢 Virtual Industry Experience Projects**
+
+**3. GenAI Powered Data Analytics — Job Simulation (Forage)**   -- Date: June 2025
+- Conducted exploratory data analysis and risk profiling on financial datasets.
+- Built AI-based models to predict delinquency risk in loan collections.
+- Created business reports and data storytelling dashboards for strategic decision-making.
+- Designed an AI-driven collections strategy to improve recovery rates.
+
+**4. Data Visualisation: Empowering Business with Effective Insights — Job Simulation (Tata Group via Forage)**   --  Date: Jan 2025
+- Framed business scenarios to align data analysis with company objectives.
+- Selected and implemented appropriate visualisation techniques for different datasets.
+- Created insightful and interactive visuals to support data-driven decision-making.
+- Developed and presented clear communication strategies to convey insights effectively.
 
 ---
 
