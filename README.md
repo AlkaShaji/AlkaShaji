@@ -40,7 +40,7 @@ Aspiring Data Analyst and Data Scientist passionate about transforming raw data 
 ---
 
 ## 📄 Resume  
-[Download My Resume](.https://github.com/AlkaShaji/AlkaShaji/blob/1672d32dd51740401aa513a1e0c6ab7f5b01c540/ALKA.pdf)  
+[Download My Resume](https://www.linkedin.com/in/alka-shaji-m/)  
 
 ---
 
