@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alka Shaji M
 
 ## 🎓 Education
-- **Master of Science (MSc) in Computer Science** — Specialization: Data Science (Recently Completed)  
+- **Master of Science (MSc) in Computer Science** — Specialization: Data Science - 2023 - 2025  
 - **Bachelor of Computer Applications (BCA)**     - 2020 - 2023
 
 ---
